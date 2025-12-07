@@ -4,14 +4,7 @@ A clean and modern Flutter authentication UI that includes Login, Signup, and Fo
 The app uses a light and clean design, smooth navigation, and reusable UI components — perfect as a starter template for authentication systems.
 
 
- Screenshots
-
- Login                                    Signup                                    Forgot Password                                       
-
- ![Login](assets/images/login_image.png)  ![Signup](assets/images/signup_image.png)  ![Forgot Password](assets/images/forgotten_password.png) |
-
-
-
+ 
 Authentication Screens**
 - Modern Login Page with:
     - Email input
@@ -62,7 +55,7 @@ Technical Features
 ![Sign Up Page](assets/screenshots/signup_readme.png)
 
 # 3. Forgotten Password Screen
-![Forgotten password page](assets/screenshots/forgot_password_readme.png)]
+![Forgotten password page](assets/screenshots/forgot_password_readme.png)
 
 
 
